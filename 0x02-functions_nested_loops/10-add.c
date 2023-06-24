@@ -5,7 +5,7 @@
  * @n2: The second number to be computed
  * Return: INteger value
  */
-int add (int n1, int n2)
+int add(int n1, int n2)
 {
 	return (n1 + n2);
 }

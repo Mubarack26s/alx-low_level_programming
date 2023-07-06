@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ * Description: program prints a[2] = 98
+ * Return: always 0
+ */
 
 int main(void)
 {
